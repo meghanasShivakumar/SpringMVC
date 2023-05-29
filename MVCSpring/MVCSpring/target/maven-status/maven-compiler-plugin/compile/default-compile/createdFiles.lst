@@ -1,0 +1,6 @@
+com\MVC\MVCSpring\MvcSpringApplication.class
+com\MVC\MVCSpring\entity\Student.class
+com\MVC\MVCSpring\controller\StudentController.class
+com\MVC\MVCSpring\serviceimpl\StudentServiceImpl.class
+com\MVC\MVCSpring\service\StudentService.class
+com\MVC\MVCSpring\repository\StudentRepository.class
